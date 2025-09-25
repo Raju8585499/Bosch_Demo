@@ -6,3 +6,4 @@ code changes from VS code
 ORT merge changes from VS code
 
 added one more change for conflict betwen local and remote while doign push -- from Git
+added one more change for  Fetch checking - from remote to local
